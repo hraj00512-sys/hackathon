@@ -22,10 +22,4 @@ AZIX-N4NFPS
 - CSS
 - JavaScript
 
-## API Usage
 
-No standard external API was used. The project is a frontend prototype using JavaScript.
-
-## Live Demo
-
-Paste the GitHub Pages link here.
